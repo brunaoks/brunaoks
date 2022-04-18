@@ -1,7 +1,7 @@
 ### Olá!! Me chamo Salomão Bruno 👋
 
 - 🔭 Atualmente não estou trabalhando na área
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Front-end
 
 <div align="center">
   <a href="https://github.com/brunaoks">
