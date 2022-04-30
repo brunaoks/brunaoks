@@ -1,7 +1,7 @@
 ### Olá!! Me chamo Salomão Bruno, sou estudante de graduação em Ciência da computação 👋
 
 - 🔭 Atualmente não estou trabalhando na área
-- 🌱 Estudando Front-end
+- 🌱 Estudando JavaScript
 
 <div align="center">
   <a href="https://github.com/brunaoks">
