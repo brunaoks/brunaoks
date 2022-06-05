@@ -1,4 +1,4 @@
-### Olá!! Me chamo Salomão Bruno, sou estudante de graduação em Ciência da computação 👋
+### Olá!! Me chamo Salomão Bruno, sou estudante de bacharelado em Ciência da computação 👋
 
 - 🔭 Atualmente não estou trabalhando na área
 - 🌱 Estudando JavaScript
