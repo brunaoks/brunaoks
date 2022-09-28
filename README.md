@@ -23,7 +23,7 @@
   <a target="_blank" href="mailto:sfbruno2002@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a target="_blank" href="www.linkedin.com/in/salomao-bruno" alt="Linkedin">
+  <a target="_blank" href="https://www.linkedin.com/in/salomao-bruno" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a target="_blank" href="https://api.whatsapp.com/send?phone=5581981946222" alt="WhatsApp">
