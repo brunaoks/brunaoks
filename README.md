@@ -20,15 +20,15 @@
 #### 💌 Para entrar em contato: ⤵️
 
 <p align="left">
-  <a href="mailto:sfbruno2002@gmail.com" target="_blank" alt="Gmail">
+  <a target="_blank" href="mailto:sfbruno2002@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="www.linkedin.com/in/salomao-bruno" target="_blank" alt="Linkedin">
+  <a target="_blank" href="www.linkedin.com/in/salomao-bruno" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="https://api.whatsapp.com/send?phone=5581981946222" target="_blank" alt="WhatsApp">
+  <a target="_blank" href="https://api.whatsapp.com/send?phone=5581981946222" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-  <a href="https://www.instagram.com/bruno_florenc0/" target="_blank" alt="Instagram">
+  <a target="_blank" href="https://www.instagram.com/bruno_florenc0/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
