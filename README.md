@@ -1,21 +1,21 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### Olá!! me chamo Salomão, estou iniciando no mundo do desenvolvimento Front-end. Atualmente estou cursando Ciência da Computação, e estou em busca do primeiro estágio. 👋
+## Olá!! me chamo Salomão, estou iniciando no mundo do desenvolvimento Front-end. Atualmente estou cursando Ciência da Computação, e estou em busca do primeiro estágio. 👋
 
-  #### :computer: Linguagens: 
+  ### :computer: Linguagens: 
   <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
 
-#### 💼 Ferramentas:
+### 💼 Ferramentas:
 <div>
    <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
 
-#### 💌 Para entrar em contato: ⤵️
+### 💌 Para entrar em contato: ⤵️
 
 <p align="left">
   <a target="_blank" href="mailto:sfbruno2002@gmail.com" alt="Gmail">
