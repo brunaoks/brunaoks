@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## Olá!! me chamo Salomão, estou iniciando no mundo do desenvolvimento Front-end. Atualmente estou cursando Ciência da Computação, e estou em busca do meu primeiro estágio. 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=Olá!+meu+nome+é+Salomão;e+eu+sou+Front-End+Developer!+:%29)](https://git.io/typing-svg)
 
   ### :computer: Habilidades: 
   <div>
