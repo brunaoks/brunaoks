@@ -7,16 +7,16 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaoks&layout=compact&hide_border=true&title_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-  ### :computer: Main Skills: 
+  ### :computer: Main Skills:
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 
-### 💼 Workspaces:
+### 💼 My Workspaces:
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-### 💌 Contacts: ⤵️
+### 💌 My Contacts:
 
 <p align="left">
   <a target="_blank" href="mailto:sfbruno2002@gmail.com" alt="Gmail">
